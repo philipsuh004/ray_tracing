@@ -1,0 +1,10 @@
+# CMake build output
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# macOS junk
+.DS_Store
