@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/Users/philipsuh/Documents/ray_tracing/build/cmake_install.cmake",
-		"/Users/philipsuh/Documents/ray_tracing/build/src/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

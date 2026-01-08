@@ -1,5 +1,0 @@
-/Users/philipsuh/Documents/ray_tracing/build/CMakeFiles/edit_cache.dir
-/Users/philipsuh/Documents/ray_tracing/build/CMakeFiles/rebuild_cache.dir
-/Users/philipsuh/Documents/ray_tracing/build/src/CMakeFiles/ray_tracing.dir
-/Users/philipsuh/Documents/ray_tracing/build/src/CMakeFiles/edit_cache.dir
-/Users/philipsuh/Documents/ray_tracing/build/src/CMakeFiles/rebuild_cache.dir
