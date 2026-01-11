@@ -8,4 +8,5 @@ add_subdirectory(src)
 
 target_include_directories(ray_tracing PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}/include
+    ${CMAKE_CURRENT_SOURCE_DIR}/images
 )
